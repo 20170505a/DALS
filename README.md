@@ -1,5 +1,1 @@
-# Summary
-*[前言](README.md)
-http://genomicsclass.github.io/book/
-
 这个仓库是Data Analysis for the life sciences这本书的读书笔记，排版跟原作者一样。
